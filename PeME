@@ -16,6 +16,7 @@ indent_mode=2
 [project]
 name=PeME
 base_path=/home/maeln/projects/PeME
+description=
 
 [long line marker]
 long_line_behaviour=1
@@ -23,6 +24,8 @@ long_line_column=122
 
 [files]
 current_page=0
+FILE_NAME_0=4397;C++;0;16;1;1;0;%2Fhome%2Fmaeln%2Fprojects%2FPeME%2FPeME.cxx;0;4
+FILE_NAME_1=51075;C++;0;16;1;1;0;%2Fhome%2Fmaeln%2Fprojects%2FPeME%2Fsuzanne.cxx;0;4
 
 [VTE]
 last_dir=/home/maeln/projects/PeGL/build
